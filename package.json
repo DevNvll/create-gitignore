@@ -1,6 +1,6 @@
 {
   "name": "create-gitignore",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A .gitignore generator",
   "main": "lib/index.js",
   "scripts": {
